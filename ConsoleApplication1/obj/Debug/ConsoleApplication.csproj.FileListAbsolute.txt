@@ -1,0 +1,8 @@
+c:\users\rachel\documents\visual studio 2015\Projects\PresidentialEligibility\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\rachel\documents\visual studio 2015\Projects\PresidentialEligibility\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\rachel\documents\visual studio 2015\Projects\PresidentialEligibility\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\rachel\documents\visual studio 2015\Projects\PresidentialEligibility\ConsoleApplication1\bin\Debug\PresidentialEligibilityCL.dll
+c:\users\rachel\documents\visual studio 2015\Projects\PresidentialEligibility\ConsoleApplication1\bin\Debug\PresidentialEligibilityCL.pdb
+c:\users\rachel\documents\visual studio 2015\Projects\PresidentialEligibility\ConsoleApplication1\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\rachel\documents\visual studio 2015\Projects\PresidentialEligibility\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\rachel\documents\visual studio 2015\Projects\PresidentialEligibility\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

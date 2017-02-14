@@ -1,0 +1,4 @@
+c:\users\rachel\documents\visual studio 2015\Projects\PresidentialEligibility\PresidentialEligibilityCL\bin\Debug\PresidentialEligibilityCL.dll
+c:\users\rachel\documents\visual studio 2015\Projects\PresidentialEligibility\PresidentialEligibilityCL\bin\Debug\PresidentialEligibilityCL.pdb
+c:\users\rachel\documents\visual studio 2015\Projects\PresidentialEligibility\PresidentialEligibilityCL\obj\Debug\PresidentialEligibilityCL.dll
+c:\users\rachel\documents\visual studio 2015\Projects\PresidentialEligibility\PresidentialEligibilityCL\obj\Debug\PresidentialEligibilityCL.pdb
